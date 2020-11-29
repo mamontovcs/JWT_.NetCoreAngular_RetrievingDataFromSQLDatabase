@@ -1,0 +1,9 @@
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\bin\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.deps.json
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\bin\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.dll
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\bin\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.pdb
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.AssemblyInfoInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.AssemblyInfo.cs
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.dll
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse.DatabaseAccess\obj\Debug\netstandard2.0\WebApp.Resourse.DatabaseAccess.pdb

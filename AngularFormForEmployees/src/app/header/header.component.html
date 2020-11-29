@@ -1,0 +1,15 @@
+<header>
+  <div class="topnav">
+
+    <button [routerLink]="'/form'" mat-flat-button color="accent" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }" *ngIf="isLoggedIn && !isAdmin">Form</button>
+
+    <button [routerLink]="'/admin'" mat-flat-button color="accent" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }"
+            *ngIf="isLoggedIn && isAdmin">Answers</button>
+
+    <button *ngIf="isLoggedIn" mat-flat-button color="primary" (click)="logout()">Logout</button>
+
+  </div>
+
+</header>
+
+

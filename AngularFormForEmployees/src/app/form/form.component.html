@@ -1,0 +1,18 @@
+<div class="employeeForm">
+  <form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)">
+
+    <mat-form-field appearance="outline">
+      <mat-label>Какую технологию хотите изучать ?</mat-label>
+      <mat-select name="technology" [(ngModel)]="formAnswer.technology">
+        <mat-option *ngFor="let tech of technologies1" [value]="tech" >
+          {{tech}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+
+    <input type="text" name="answer1" [(ngModel)]="formAnswer.answer1">
+    <input type="text" name="answer2" [(ngModel)]="formAnswer.answer2">
+    <input type="text" name="answer3" [(ngModel)]="formAnswer.answer3">
+    <button type="submit">Submit</button>
+  </form>
+</div>

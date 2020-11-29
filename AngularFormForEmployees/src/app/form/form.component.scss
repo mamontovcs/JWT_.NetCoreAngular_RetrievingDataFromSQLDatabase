@@ -1,0 +1,22 @@
+input{
+    font-size: 1em;
+    outline: none;
+    padding: 0.5em;
+    border-radius:10px;
+    display:block;
+    width: 280px;
+    position: relative;
+    margin:10px 0;
+}
+
+div{
+  text-align: -webkit-center;
+}
+
+mat-form-field{
+  width: 280px;
+}
+
+.employeeForm{
+  padding-top: 20px;
+}

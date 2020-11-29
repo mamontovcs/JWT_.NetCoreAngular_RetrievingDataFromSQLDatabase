@@ -1,0 +1,9 @@
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\bin\Debug\netstandard2.0\AuthServer.Common.deps.json
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\bin\Debug\netstandard2.0\AuthServer.Common.dll
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\bin\Debug\netstandard2.0\AuthServer.Common.pdb
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.AssemblyInfoInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.AssemblyInfo.cs
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.dll
+C:\Users\Vitalik\Desktop\WebApp\AuthServer.Common\obj\Debug\netstandard2.0\AuthServer.Common.pdb
