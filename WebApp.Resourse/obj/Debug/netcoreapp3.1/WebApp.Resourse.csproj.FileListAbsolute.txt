@@ -7,7 +7,6 @@ C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\WebApp.R
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\WebApp.Resourse.runtimeconfig.dev.json
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\WebApp.Resourse.dll
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\WebApp.Resourse.pdb
-C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -54,8 +53,6 @@ C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\WebApp.R
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.csprojAssemblyReference.cache
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.AssemblyInfoInputs.cache
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.AssemblyInfo.cs
-C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.csproj.CoreCompileInputs.cache
-C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.RazorTargetAssemblyInfo.cache
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.csproj.CopyComplete
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\staticwebassets\WebApp.Resourse.StaticWebAssets.Manifest.cache
@@ -63,3 +60,6 @@ C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\staticwe
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.dll
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.pdb
 C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.genruntimeconfig.cache
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\WebApp.Resourse\obj\Debug\netcoreapp3.1\WebApp.Resourse.MvcApplicationPartsAssemblyInfo.cache

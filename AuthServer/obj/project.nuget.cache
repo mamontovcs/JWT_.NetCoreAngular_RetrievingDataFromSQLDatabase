@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wtTEYBdxLezmVANlE9rJu37m50jYrh6Uvh5Bx1FNvXofbKp5FnMIbvlOL/10JcT4XhAaK4U+Tx6IystPXJj16g==",
+  "dgSpecHash": "a1D3kUthw0J2AlyhRSmMQGaMsv9hgKgL/E03z6acPa0b/7TnLyAuYpIX7OivDd+g1henh5lXchRa6tnLum83EQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Vitalik\\Desktop\\WebApp\\AuthServer\\AuthServer.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.10\\microsoft.aspnetcore.authentication.jwtbearer.3.1.10.nupkg.sha512",
     "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Vitalik\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

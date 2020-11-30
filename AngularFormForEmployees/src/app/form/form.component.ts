@@ -29,7 +29,14 @@ export class FormComponent implements OnInit {
 
   onSubmit(data) {
     this.as.postAnswer(data);
-    console.log(data);
+    this.resetForm();
+  }
+
+  private resetForm() {
+    this.formAnswer.answer1 = '';
+    this.formAnswer.answer2 = '';
+    this.formAnswer.answer3 = '';
+    this.formAnswer.technology = this.technologies1[0];
   }
 
 }

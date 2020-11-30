@@ -22,6 +22,9 @@ import {HttpClientModule} from '@angular/common/http';
 import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import {MatTableModule} from '@angular/material/table';
+import { StatisticsComponent } from './statistics/statistics.component';
+import {MatIconModule} from '@angular/material/icon';
+import {MatButtonToggleModule} from '@angular/material/button-toggle';
 
 export function tokenGetter() {
   return localStorage.getItem(ACCESS_TOKEN_KEY);
@@ -34,7 +37,8 @@ export function tokenGetter() {
     FooterComponent,
     HeaderComponent,
     AdminComponent,
-    LoginComponent
+    LoginComponent,
+    StatisticsComponent
   ],
   imports: [
     BrowserModule,
@@ -55,7 +59,9 @@ export function tokenGetter() {
         allowedDomains: [environment.tokenWhiteListedDomain]
       }
     }),
-    MatTableModule
+    MatTableModule,
+    MatIconModule,
+    MatButtonToggleModule
 
   ],
   providers: [

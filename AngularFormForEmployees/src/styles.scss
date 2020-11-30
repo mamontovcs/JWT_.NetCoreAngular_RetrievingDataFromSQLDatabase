@@ -2,3 +2,14 @@ body{
   margin: 0px;
   padding: 0px;
 }
+
+.wrapper {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
+
+.page-container{
+  position: relative;
+  min-height: 100vh;
+}

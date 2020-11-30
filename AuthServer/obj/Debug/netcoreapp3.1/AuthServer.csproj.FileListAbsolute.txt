@@ -1,10 +1,3 @@
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.csprojAssemblyReference.cache
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.AssemblyInfoInputs.cache
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.AssemblyInfo.cs
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.csproj.CoreCompileInputs.cache
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.dll
-C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.pdb
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -14,6 +7,7 @@ C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.ru
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.runtimeconfig.dev.json
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.dll
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.pdb
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
@@ -70,8 +64,15 @@ C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.Co
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\WebApp.Resourse.DatabaseAccess.dll
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\AuthServer.Common.pdb
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\bin\Debug\netcoreapp3.1\WebApp.Resourse.DatabaseAccess.pdb
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.csprojAssemblyReference.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.AssemblyInfoInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.AssemblyInfo.cs
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.RazorTargetAssemblyInfo.cache
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.csproj.CopyComplete
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\staticwebassets\AuthServer.StaticWebAssets.Manifest.cache
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\staticwebassets\AuthServer.StaticWebAssets.xml
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.dll
+C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.pdb
 C:\Users\Vitalik\Desktop\WebApp\AuthServer\obj\Debug\netcoreapp3.1\AuthServer.genruntimeconfig.cache

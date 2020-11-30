@@ -1,29 +1,29 @@
 <mat-card>
-  <span>Your orders: </span>
+  <span>Answers</span>
   <mat-table [dataSource]="answers">
 
     <ng-container matColumnDef="id">
-      <mat-header-cell *matHeaderCellDef> ID </mat-header-cell>
+      <mat-header-cell *matHeaderCellDef> ID</mat-header-cell>
       <mat-header-cell *matCellDef="let answer"> {{answer.id}} </mat-header-cell>
     </ng-container>
 
     <ng-container matColumnDef="Technology">
-      <mat-header-cell *matHeaderCellDef> Technology </mat-header-cell>
+      <mat-header-cell *matHeaderCellDef> Technology</mat-header-cell>
       <mat-header-cell *matCellDef="let answer"> {{answer.technology}} </mat-header-cell>
     </ng-container>
 
     <ng-container matColumnDef="A1">
-      <mat-header-cell *matHeaderCellDef> Answer1 </mat-header-cell>
+      <mat-header-cell *matHeaderCellDef> Answer1</mat-header-cell>
       <mat-header-cell *matCellDef="let answer"> {{answer.answer1}} </mat-header-cell>
     </ng-container>
 
     <ng-container matColumnDef="A2">
-      <mat-header-cell *matHeaderCellDef> Answer2 </mat-header-cell>
+      <mat-header-cell *matHeaderCellDef> Answer2</mat-header-cell>
       <mat-header-cell *matCellDef="let answer"> {{answer.answer2}} </mat-header-cell>
     </ng-container>
 
     <ng-container matColumnDef="A3">
-      <mat-header-cell *matHeaderCellDef> Answer3 </mat-header-cell>
+      <mat-header-cell *matHeaderCellDef> Answer3</mat-header-cell>
       <mat-header-cell *matCellDef="let answer"> {{answer.answer3}} </mat-header-cell>
     </ng-container>
 

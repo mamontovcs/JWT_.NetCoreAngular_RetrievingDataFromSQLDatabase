@@ -3,7 +3,6 @@ import {HttpClient} from '@angular/common/http';
 import {Observable} from 'rxjs';
 import {FormAnswer} from '../models/FormAnswer';
 import {ANSWERS_API_URL} from '../app-injection-tokens';
-import {Token} from '../models/token';
 
 @Injectable({
   providedIn: 'root'
@@ -23,5 +22,9 @@ export class AnswerService {
     console.log(formAnswer);
     console.log(`${this.baseApiUrl}answers/create`);
     this.http.post(`${this.baseApiUrl}answers/create`, formAnswer).subscribe();;
+  }
+
+  getDesirable(): Observable<string> {
+    return this.http.get<string>(`${this.baseApiUrl}answers/getDesirable`);
   }
 }

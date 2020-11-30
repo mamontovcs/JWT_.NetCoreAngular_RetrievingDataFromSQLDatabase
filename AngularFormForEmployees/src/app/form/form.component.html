@@ -2,7 +2,7 @@
   <form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)">
 
     <mat-form-field appearance="outline">
-      <mat-label>Какую технологию хотите изучать ?</mat-label>
+      <mat-label>Which technology tou want to study?</mat-label>
       <mat-select name="technology" [(ngModel)]="formAnswer.technology">
         <mat-option *ngFor="let tech of technologies1" [value]="tech" >
           {{tech}}
@@ -10,9 +10,21 @@
       </mat-select>
     </mat-form-field>
 
-    <input type="text" name="answer1" [(ngModel)]="formAnswer.answer1">
-    <input type="text" name="answer2" [(ngModel)]="formAnswer.answer2">
-    <input type="text" name="answer3" [(ngModel)]="formAnswer.answer3">
-    <button type="submit">Submit</button>
+    <mat-form-field class="example-full-width">
+      <mat-label>Why do you want to study this technology ?</mat-label>
+      <input matInput type="text" name="answer1" [(ngModel)]="formAnswer.answer1">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+      <mat-label>Do you have experience in this technology?</mat-label>
+      <input matInput type="text" name="answer2" [(ngModel)]="formAnswer.answer2">
+    </mat-form-field>
+
+    <mat-form-field class="example-full-width">
+      <mat-label>Additional information:</mat-label>
+      <input matInput type="text" name="answer3" [(ngModel)]="formAnswer.answer3">
+    </mat-form-field>
+
+    <button mat-flat-button type="submit">Submit</button>
   </form>
 </div>
