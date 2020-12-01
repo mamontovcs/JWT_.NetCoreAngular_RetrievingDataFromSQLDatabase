@@ -2,7 +2,7 @@
   <form #userForm="ngForm" (ngSubmit)="onSubmit(userForm.value)">
 
     <mat-form-field appearance="outline">
-      <mat-label>Which technology tou want to study?</mat-label>
+      <mat-label>Which technology you want to study?</mat-label>
       <mat-select name="technology" [(ngModel)]="formAnswer.technology">
         <mat-option *ngFor="let tech of technologies1" [value]="tech" >
           {{tech}}
